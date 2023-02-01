@@ -1,2 +1,2 @@
 # LoRa_With_Arduino_Nano
- LoRa (Transmit and Receive) Test using Arduino nano
+ LoRa (Transmit and Receiver) Test using Arduino nano
